@@ -1,4 +1,4 @@
-module github.com/pingcap/go-ycsb
+module github.com/ikettaneh/go-ycsb
 
 require (
 	cloud.google.com/go/spanner v1.34.1
@@ -26,8 +26,8 @@ require (
 	github.com/mattn/go-sqlite3 v2.0.1+incompatible
 	github.com/minio/minio-go v6.0.14+incompatible
 	github.com/olekukonko/tablewriter v0.0.5
-	github.com/pingcap/errors v0.11.5-0.20211224045212-9687c2b0f87c
-	github.com/pingcap/kvproto v0.0.0-20220705053936-aa9c2d20cd2a
+	github.com/ikettaneh/errors v0.11.5-0.20211224045212-9687c2b0f87c
+	github.com/ikettaneh/kvproto v0.0.0-20220705053936-aa9c2d20cd2a
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/spf13/cobra v1.0.0
 	github.com/tecbot/gorocksdb v0.0.0-20191217155057-f0fad39f321c
@@ -100,8 +100,8 @@ require (
 	github.com/matttproud/golang_protobuf_extensions v1.0.1 // indirect
 	github.com/mitchellh/go-homedir v1.1.0 // indirect
 	github.com/opentracing/opentracing-go v1.2.0 // indirect
-	github.com/pingcap/failpoint v0.0.0-20210918120811-547c13e3eb00 // indirect
-	github.com/pingcap/log v0.0.0-20211215031037-e024ba4eb0ee // indirect
+	github.com/ikettaneh/failpoint v0.0.0-20210918120811-547c13e3eb00 // indirect
+	github.com/ikettaneh/log v0.0.0-20211215031037-e024ba4eb0ee // indirect
 	github.com/prometheus/client_golang v1.11.0 // indirect
 	github.com/prometheus/client_model v0.2.0 // indirect
 	github.com/prometheus/common v0.26.0 // indirect

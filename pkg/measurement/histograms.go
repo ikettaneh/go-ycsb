@@ -7,8 +7,8 @@ import (
 	"time"
 
 	"github.com/magiconair/properties"
-	"github.com/pingcap/go-ycsb/pkg/prop"
-	"github.com/pingcap/go-ycsb/pkg/util"
+	"github.com/ikettaneh/go-ycsb/pkg/prop"
+	"github.com/ikettaneh/go-ycsb/pkg/util"
 )
 
 type histograms struct {

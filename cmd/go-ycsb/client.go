@@ -18,9 +18,9 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/pingcap/go-ycsb/pkg/client"
-	"github.com/pingcap/go-ycsb/pkg/measurement"
-	"github.com/pingcap/go-ycsb/pkg/prop"
+	"github.com/ikettaneh/go-ycsb/pkg/client"
+	"github.com/ikettaneh/go-ycsb/pkg/measurement"
+	"github.com/ikettaneh/go-ycsb/pkg/prop"
 	"github.com/spf13/cobra"
 )
 
