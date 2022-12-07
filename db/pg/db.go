@@ -20,13 +20,13 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/pingcap/go-ycsb/pkg/prop"
-	"github.com/pingcap/go-ycsb/pkg/util"
+	"github.com/ikettaneh/go-ycsb/pkg/prop"
+	"github.com/ikettaneh/go-ycsb/pkg/util"
 
 	// pg package
 	_ "github.com/lib/pq"
 	"github.com/magiconair/properties"
-	"github.com/pingcap/go-ycsb/pkg/ycsb"
+	"github.com/ikettaneh/go-ycsb/pkg/ycsb"
 )
 
 // pg properties

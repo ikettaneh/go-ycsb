@@ -25,13 +25,13 @@ import (
 	"strings"
 	"time"
 
-	"github.com/pingcap/go-ycsb/pkg/prop"
-	"github.com/pingcap/go-ycsb/pkg/util"
+	"github.com/ikettaneh/go-ycsb/pkg/prop"
+	"github.com/ikettaneh/go-ycsb/pkg/util"
 
 	"github.com/magiconair/properties"
 	// sqlite package
 	"github.com/mattn/go-sqlite3"
-	"github.com/pingcap/go-ycsb/pkg/ycsb"
+	"github.com/ikettaneh/go-ycsb/pkg/ycsb"
 )
 
 // Sqlite properties

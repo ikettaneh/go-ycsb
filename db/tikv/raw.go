@@ -19,10 +19,10 @@ import (
 	"strings"
 
 	"github.com/magiconair/properties"
-	"github.com/pingcap/errors"
-	"github.com/pingcap/go-ycsb/pkg/util"
-	"github.com/pingcap/go-ycsb/pkg/ycsb"
-	"github.com/pingcap/kvproto/pkg/kvrpcpb"
+	"github.com/ikettaneh/errors"
+	"github.com/ikettaneh/go-ycsb/pkg/util"
+	"github.com/ikettaneh/go-ycsb/pkg/ycsb"
+	"github.com/ikettaneh/kvproto/pkg/kvrpcpb"
 	"github.com/tikv/client-go/v2/rawkv"
 )
 
