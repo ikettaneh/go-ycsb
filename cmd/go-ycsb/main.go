@@ -41,7 +41,7 @@ import (
 	// Register basic database
 	_ "github.com/pingcap/go-ycsb/db/basic"
 	// Register basic database
-	_ "github.com/ikettaneh/go-ycsb/db/bigtable"
+	_ "github.com/ikettaneh/go-ycsb/blob/master/db/bigtable"
 	// Register MySQL database
 	_ "github.com/pingcap/go-ycsb/db/mysql"
 	// Register TiKV database
